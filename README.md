@@ -25,3 +25,9 @@ make smarter career decisions.
 ## 👨‍🎓 Author
 Chandan Sain  
 BS in Data Science — IIT Madras
+
+
+## Repository Structure
+- data/ → datasets
+- analysis/ → python analysis scripts
+- insights/ → findings & reports
